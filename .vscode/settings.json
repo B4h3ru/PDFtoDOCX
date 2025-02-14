@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\pdfbox\\pdfbox\\2.0.30\\pdfbox-2.0.30.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\poi\\poi-ooxml\\5.1.0\\poi-ooxml-5.1.0.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\poi\\poi-ooxml-lite\\5.1.0\\poi-ooxml-lite-5.1.0.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\poi\\poi\\5.1.0\\poi-5.1.0.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\logging\\log4j\\log4j-api\\2.14.1\\log4j-api-2.14.1.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\pdfbox\\fontbox\\2.0.30\\fontbox-2.0.30.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\com\\zaxxer\\SparseBitSet\\1.2\\SparseBitSet-1.2.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\commons-codec\\commons-codec\\1.15\\commons-codec-1.15.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\commons\\commons-collections4\\4.4\\commons-collections4-4.4.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\commons\\commons-compress\\1.21\\commons-compress-1.21.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\commons-io\\commons-io\\2.11.0\\commons-io-2.11.0.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\commons\\commons-math3\\3.6.1\\commons-math3-3.6.1.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\org\\apache\\xmlbeans\\xmlbeans\\5.0.2\\xmlbeans-5.0.2.jar",
+        "c:\\Users\\bahir\\Downloads\\jar_files\\java-1.0.0-jre.jar",
+        "c:\\Users\\bahir\\.m2\\repository\\com\\github\\virtuald\\curvesapi\\1.06\\curvesapi-1.06.jar"
+    ]
+}
